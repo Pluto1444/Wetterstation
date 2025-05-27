@@ -21,7 +21,7 @@ Im Projekt „Wetterstation 2025“ wurde ein ESP32-Mikrocontroller verwendet, u
 
 ## 📷 Aufbau
 
-![Aufbau](readme_images/page_1_img_1.png)
+![Aufbau](Protokoll-Bilder/Aufbau.png)
 
 ## 🧪 Features
 
