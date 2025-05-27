@@ -43,7 +43,7 @@ Weboberfläche mit Anzeige der Sensordaten und Schaltflächen:
 
 Daten werden alle 10 Sekunden in eine MariaDB-Datenbank eingetragen über eine `insert_temp.php`-API.
 
-![DataGrip](Protokoll-Bilder.Webserver)
+![DataGrip](Protokoll-Bilder.Webserver.png)
 
 ## 🔴 Status-LED Logik
 
