@@ -1,7 +1,7 @@
 # 🌤️ Wetterstation 2025
 
 > Tamino Beckmann & Marcel Ebner  
-> 📅 Abgabedatum: 25.05.2025
+> 📅 Abgabedatum: 27.05.2025
 
 ## 🔧 Projektübersicht
 
