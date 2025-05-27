@@ -69,20 +69,7 @@ Webgesteuerter Soft-Sleep-Modus: Display und LEDs werden deaktiviert, Sensoren u
 
 ---
 
-## 📦 Aufbau & Code
-
-Alle Komponenten wurden modular getestet und am Ende in ein großes Programm zusammengeführt. Die finale Firmware enthält:
-
-- Blynk-Setup
-- NTP-Zeitsynchronisation
-- HTML-Interface
-- Datenlogging + Übertragung
-
-📜 Finaler Code ist im Ordner `src/` oder `main.cpp` enthalten.
-
-## 🧵 Lessons Learned
-
-> „Arbeitet gut und gemeinschaftlich miteinander, denn es ist **EUER Projekt**.“
+📜 Finaler Code ist in `Wetterstation-Code.ino` enthalten.
 
 ---
 
