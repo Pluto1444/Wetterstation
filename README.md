@@ -37,13 +37,13 @@ Im Projekt „Wetterstation 2025“ wurde ein ESP32-Mikrocontroller verwendet, u
 
 Weboberfläche mit Anzeige der Sensordaten und Schaltflächen:
 
-![Webserver](readme_images/page_11_img_1.png)
+![Webserver](Protokoll-Bilder/Startseite.png)
 
 ## 💾 Datenbank
 
 Daten werden alle 10 Sekunden in eine MariaDB-Datenbank eingetragen über eine `insert_temp.php`-API.
 
-![DataGrip](readme_images/page_10_img_1.jpeg)
+![DataGrip](Protokoll-Bilder.Webserver)
 
 ## 🔴 Status-LED Logik
 
@@ -51,17 +51,17 @@ Daten werden alle 10 Sekunden in eine MariaDB-Datenbank eingetragen über eine `
 - 🔴 **Rot** – kein WLAN oder Erschütterung  
 - 🟠 **Orange** – Temperatur über 28 °C
 
-![Status LED](readme_images/page_15_img_1.jpeg)
+![Status LED](Protokoll-Bilder/LED.png)
 
 ## 📱 Discord & Blynk
 
 ### Discord-Benachrichtigung (alle 5 Minuten):
 
-![Discord](readme_images/page_16_img_1.jpeg)
+![Discord](Protokoll-Bilder/Discord.png)
 
 ### Anzeige & Steuerung per Blynk App:
 
-![Blynk](readme_images/page_17_img_1.jpeg)
+![Blynk](Protokoll-Bilder/Blynk.png)
 
 ## 🧠 Sleep Mode
 
